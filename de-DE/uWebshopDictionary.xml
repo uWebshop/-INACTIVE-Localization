@@ -3,167 +3,167 @@
 	<DictionaryItem Key="uWebshop">
 		<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[uWebshop]]></Value>
 		<DictionaryItem Key="GlobalFields">
-			<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Algemeine Felder]]></Value>
+			<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Allgemeine Felder]]></Value>
 			<DictionaryItem Key="Title">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Titel]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Bezeichnung]]></Value>
 				<DictionaryItem Key="TitleDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Der Titel des Items wie dieser auf der Seite wiedergegeben wird.]]></Value>	
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Die Bezeichnung des Artikels, wie sie auf der Website angezeigt werden soll.]]></Value>	
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="Url">
 				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Url Name]]></Value>
 				<DictionaryItem Key="UrlDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Der Url Name des Items wie dieser angezeigt wird im Adressfeld des Browsers der Benutzer.]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Die URL des Artikels in der Adresszeile des Browsers der Besucher.]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="MetaDescription">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Kurze Beschreibung/ Meta Beschreibung]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[META-Description]]></Value>
 				<DictionaryItem Key="MetaDescriptionDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Die in der Suchmachine angezeigte Kurzbeschreibung des Items]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Die auf Ergebnisseiten von Suchmaschinen angezeigte Kurzbeschreibung des Artikels]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="Tags">
 				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Tags]]></Value>
 				<DictionaryItem Key="TagsDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Schlüsselwörter die dieses Item beschreiben]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Verschlagwortung des Artikels]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="SubCategories">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Subkategorien]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Unterkategorien]]></Value>
 				<DictionaryItem Key="SubCategoriesDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Selektieren Sie die Kategorien die (auch) als Sub-Kategorien zu dieser Kategorie gehören. Kategorien die sich direkt unter dieser Kategorie befinden werden automatisch mitgenommen.]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Ordnen Sie dieser Kategorie die gewünschten Unterkategorien zu. Kategorien, die sich direkt unter dieser Kategorie befinden, werden automatisch übernommen.]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="Description">
 				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Beschreibung]]></Value>
 				<DictionaryItem Key="DescriptionDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Der Kontext des Items]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Die Artikelbeschreibung]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="Image">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Bild]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Abbildung]]></Value>
 				<DictionaryItem Key="ImageDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Selektieren Sie ein Bild des Item]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Bitte wählen Sie eine Abbildung aus]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="Images">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Bilder]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Abbildungen]]></Value>
 				<DictionaryItem Key="ImagesDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Selektieren Sie ein- oder mehrere Bilder dieses Item]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Wählen Sie eine oder mehrere Abbildungen für diesen Artikel aus]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="Files">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Dokumente]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Dateien]]></Value>
 				<DictionaryItem Key="FilesDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Selektieren Sie ein- oder mehrere Dokumente dieses Items]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Wählen Sie eine oder mehrere Dateien für diesen Artikel aus]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="Disable">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Inaktivieren]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Deaktivieren]]></Value>
 				<DictionaryItem Key="DisableDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Inaktivieren Sie dieses Item damit es im Webshop/ oder den unterschiedlichen Webshops niet angezeigt wird.]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Deaktivierte Artikel werden im Shop nicht mehr angezeigt.]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="SKU">
 				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[SKU]]></Value>
 				<DictionaryItem Key="SKUDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Produktnummer. Eine Nummer die dieses Item unterscheidet von allen anderen Items im Webshop]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Die Artikelnummer ist eine eindeutige Nummer, anhand derer sich alle Artikel unterscheiden lassen]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="ProductCategories">
 				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Produktkategorien]]></Value>
 				<DictionaryItem Key="ProductCategoriesDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Selektieren Sie die Kategorien in denen das Produkt vorkommen muss. Die Kategorie in der sich das Produkt befindet wird automatisch selektiert]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Wählen Sie alle Kategorien aus, in denen dieser Artikel erscheinen soll. Die Kategorie, in der sich der Artikel befindet, wird automatisch übernommen]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="Length">
 				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Länge]]></Value>
 				<DictionaryItem Key="LengthDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Länge des Item]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Länge des Artikel. Für eine korrekte Verarbeitung müssen alle Maßangaben in der selben Maßeinheit erfolgen]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="Width">
 				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Breite]]></Value>
 				<DictionaryItem Key="WidthDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Breite des Item]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Breite des Artikels. Für eine korrekte Verarbeitung müssen alle Maßangaben in der selben Maßeinheit erfolgen]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="Height">
 				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Höhe]]></Value>
 				<DictionaryItem Key="HeightDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Höhe des Item]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Höhe des Artikels. Für eine korrekte Verarbeitung müssen alle Maßangaben in der selben Maßeinheit erfolgen]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="Weight">
 				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Gewicht]]></Value>
 				<DictionaryItem Key="WeightDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Gewicht des Item]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Gewicht des Artikels. Für eine korrekte Verarbeitung müssen alle Maßangaben in der selben Maßeinheit erfolgen]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="Price">
 				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Preis]]></Value>
 				<DictionaryItem Key="PriceDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Preis des Item. Die Währung wird in jedem Webshop selbst bestimmt]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Preis des Artikels. Die Währung wird je Shop festgelegt]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="Ranges">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Staffels]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Staffelpreise]]></Value>
 				<DictionaryItem Key="RangesDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Een staffel wordt gebruikt om staffelprijzen te creëren. De waarde ingevuld bij "vanaf" wordt meegenomen en de "tot" waarde wordt niet meegenoen in de staffel]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Bei der Preisstaffelung ist jeweils der Betrag "ab" enthalten, der Betrag "bis" jedoch nicht mehr]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="VAT">
 				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Mehrwertsteuer]]></Value>
 				<DictionaryItem Key="VatDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Die Mehrwertsteuer wird im Webshop definiert, kann aber pro Item separat beschrieben werden]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Die Mehrwertsteuer wird je Shop festgelegt, kann aber auf Artikelebene überschrieben werden]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="Stock">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Vorrat]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Lagerbestand]]></Value>
 				<DictionaryItem Key="StockDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Der Vorrat eines Items]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Der Lagerbestand des Artikels]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="Ordered">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Bestellung]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Bestellzähler]]></Value>
 				<DictionaryItem Key="OrderedDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Wie oft ist dieses Produkt schon bestellt]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Wie oft dieser Artikel bereits bestellt wurde]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="StockStatus">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Vorrat ein/aus]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Lagerbestandsverwaltung]]></Value>
 				<DictionaryItem Key="StockStatusDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Schalten Sie die Vorratsfunktion ein oder aus]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Artikel ohne Lagerbestandsverwaltung können unbegrenzt bestellt werden]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="BackorderStatus">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Backorders]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Lieferrückstand]]></Value>
 				<DictionaryItem Key="BackorderStatusDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Schalten Sie die "Backorder" Funktion ein oder aus.]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Artikel, denen ein Lieferrückstand erlaubt ist, können auch dann noch bestellt werden, wenn der Lagerbestand erschöpft ist. Lieferrückstand erkennt man an negativen Lagerbestandswerten]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="UseVariantStock">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Benutzen Sie nur den Vorrat verschiedener Varianten des Produkt]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Lagerbestand je Artikelvariante]]></Value>
 				<DictionaryItem Key="UseVariantStockDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Schalten Sie die Funktion "nur Vorrat verschiedener Varianten" ein.]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Führt die Lagerbestandsverwaltung je Artikelvariante und nicht am Artikel. Werden keine Artikelvarianten angelegt, wird die Lagerbestandsverwaltung automatisch wieder auf Artikelebene aktiv]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
-			<DictionaryItem Key="Template">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Layout]]></Value>
+			<DictionaryItem Key="Template">	
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[shop-spezifische Vorlage]]></Value>
 				<DictionaryItem Key="TemplateDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Wählen Sie das Layout für ein Item so als dieses im Webshop wiedergegeben werden soll. Das Standartlayout wird in "Properties" wiedergegeben.]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Überschreibt die Standardvorlage aus den Eigenschaften, um spezifische Vorlagen je Shop zu ermöglichen]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="Group">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Kategorie der verschiedenen Varianten]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Variantengruppe]]></Value>
 				<DictionaryItem Key="GroupDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Varianten werden in Gruppen zusammengefügt. Varianten aus verschiedenen Gruppen können kombiniert werden]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Artikelvarianten werden anhand der Gruppenbezeichnung zusammengefasst. So können verschiedene Artikelvarianten auf Positionsbene zusammengefasst werden]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="RequiredVariant">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Pflichtfeld Variantengruppe]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Variantengruppe zwingend erforderlich?]]></Value>
 				<DictionaryItem Key="RequiredVariantDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Es ist möglich das der Kunde eine Variante des Produkts/ der Gruppe wählen muss bevor die Bestellung bestätigt werden kann]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Wenn aktiviert, muss der Kunde zuerst eine Variante dieser Gruppe auswählen, bevor der Artikel bestellt werden kann]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 		</DictionaryItem>
@@ -171,166 +171,166 @@
 		<DictionaryItem Key="DiscountFields">
 			<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Rabatt]]></Value>
 			<DictionaryItem Key="DiscountType">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Rabattsorten]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Rabattarten]]></Value>
 				<DictionaryItem Key="DiscountTypeDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Die verschiedenen Rabattsorten sind; Betrag, Prozent, neuer Betrag oder gratis Versand]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Die verschiedenen Arten von Rabatten sind: Betrag, Prozent, neuer Betrag oder kostenloser Versand]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="Discount">
 				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Rabatt]]></Value>
 				<DictionaryItem Key="DiscountDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Der Preisnachlass. Dieses Feld is abhängig von der gewählten Rabattsorte (Betrag/Prozent/neuer Preis/gratis Versand)]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Der Preisnachlass. Diese Angabe is abhängig von der gewählten Rabattart]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="CountdownEnabled">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Benutzen Sie den Countdown]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Verwendungslimit aktivieren?]]></Value>
 				<DictionaryItem Key="CountdownEnabledDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Aktivieren sie den Countdown um die Anzahl der Kunden die einen Rabatt bekommen können zu begrenzen]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Begrenzt die Anzahl der Kunden, die diesen Rabatt nutzen können]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="Countdown">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Countdown Anzahl]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Verwendungslimit]]></Value>
 				<DictionaryItem Key="CountdownDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Die Anzahl das der Rabatt noch benutzt werden kann wenn die "Benutzung Countdown"eingeschaltet ist]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Verbliebene Verwendungen dieses Preisnachlasses, sofern das Verwendungslimit aktiviert ist]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="OrderCondition">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Auftragszeile Vorraussetzung/Bedingung]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Rabattbedingung je Position]]></Value>
 				<DictionaryItem Key="OrderConditionDescription">
 					<Value LanguageId="2" LanguageCultureAlias="de-DE">
-						<![CDATA[Auf jedem Xtem item wird der Discount aktiviert wenn x items des ausgewählten Rabatt-items bestellt wurden durch den Kunden. Falls die Rabattsorte Prozente sind wird der Rabatt berechnet für das günstigste Item. "Pro Set von x items" wird der Discount aktiviert wenn durch den Kunden ein Set ebendieser x items bestellt wird. Falls die gewählte Rabattsorte Prozente sinds, wird der Rabatt über das Totale von den Items berechnet]]></Value>
+						<![CDATA[Auf dem soundsovielten Artikel wird der Rabatt aktiviert, wenn diese Anzahl an Artikel vom Kunden hinzugefügt werden. Ist ein Prozentwert vorgegeben, wird er auf den günstigsten Artikel angewandt. Pro Set von soundsoviel Artikeln aktiviert den Rabatt sobald derselbe Artikel in dieser Anzahl hinzugefügt wird. Ein prozentualer Nachlass wird auf die Gesamtsumme der soundsoviel Artikel gewährt]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="NumberOfItemsCondition">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Anzahl Items bei Bedingung/ Vorraussetzung]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Anzahl der Artikel für Rabattbedingung je Position]]></Value>
 				<DictionaryItem Key="NumberOfItemsConditionDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Die Anzahl der Items die zugehörig sind zur Auftragszeile Bedingungen]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Die Anzahl der Artikel, die für die Rabattbedingung je Position nötig sind]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="MinimumAmount">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Minimalbetrag]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Mindestumsatz]]></Value>
 				<DictionaryItem Key="MinimumAmountDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Der Minimalbetrag des Auftrags bevor der Rabatt gültig ist]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Der Mindestumsatz einer Bestellung, bevor der Rabatt gültig ist]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="CouponCode">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Couponcode]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Gutschein/Coupon]]></Value>
 				<DictionaryItem Key="CouponCodeDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Der Couponcode den der Kunde angeben muss bevor der Rabatt gültig ist]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Der Gutschein-Code, den der Kunde angeben muss, bevor der Rabatt gültig ist]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="OncePerCustomer">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Rabatt ist einmalig pro Kunde]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Rabatt einmalig pro Kunde]]></Value>
 				<DictionaryItem Key="CouponCodeDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Rabatt ist nur gültig bei einer Bestellung vom selben Kunden. Funktioniert nur bei eingelockten Kunden]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Dieser Rabatt wird jedem Kunden nur einmal gewährt. Nur möglich bei angemeldetem Kundenkonto]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="MemberGroups">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Kundengruppen]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Rabatt nur für Mitglieder]]></Value>
 				<DictionaryItem Key="MemberGroupsDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Bestimmen Sie für welche Kundengruppe der Rabatt gültig ist]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Bei angemeldeten Nutzern muss die Kundengruppe (Member Group) passen, damit der Rabatt gewährt wird]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="Items">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Rabatt Items]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Rabattartikel]]></Value>
 				<DictionaryItem Key="ItemsDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Selektieren Sie die Items die im Auftrag erscheinen müssen bevor der Rabatt gültig ist]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Wählen Sie die Artikel aus, die eine Bestellung umfassen muss, bevor der Rabatt gewährt wird]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="Products">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Produkte oder Produktvarianten]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Artikel und Artikelvarianten]]></Value>
 				<DictionaryItem Key="ProductsDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Selektieren Sie die Produkte oder Produktvarianten für diesen Discount]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Wählen Sie die Artikel oder Aertikelvarianten aus, für die dieser Rabatt gilt]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="ExcludeVariants">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Varianten ausschliessen]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Artikelvarianten aussschließen]]></Value>
 				<DictionaryItem Key="ExcludeVariantsDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Wenn ein Produkt selektiert ist, ist der Rabatt standard zutreffend für das Produkt und die Varianten. Hierdurch kann der Rabatt nur für das Produkt berechnet werden]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Standardmäßig gilt ein Rabatt, der auf einen Artikel anwendbar ist, auch für alle Varianten dieses Artikels. Wenn Artikelvarianten ausgeschlossen sind, wird der Nachlass nur auf den Artikelpreis gewährt, nicht jedoch auf den Preis der Variante]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="AffectedOrderlines">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Anwenden bei spezifischen Auftragsreihen]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Positionsabhängigkeit]]></Value>
 				<DictionaryItem Key="AffectedOrderlinesDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Der Auftragsrabatt wirdt für den Totalbetrag von allen Auftragsreihen berechnet. Wenn hier ein Produkt oder Variante selektiert wird, dann wird der Rabatt nur berechnet für die Auftragsreihe zu der das Produkt oder die Variante zugehörig ist]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Rabatte auf den Bestellwert werden auf den Gesamtbetrag aller Bestellpositionen gewährt. Wenn Sie hier Artikel oder Artikelvarianten auswählen, wird der Rabatt nur über die Summe der Positionen gewährt, die diese Artikel oder Artikelvarianten umfassen]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 		</DictionaryItem>
 
 		<DictionaryItem Key="EmailFields">
-			<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Email velden]]></Value>
+			<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[E-Mail-Angaben]]></Value>
 			<DictionaryItem Key="XsltTemplate">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Die Template/Schablone für diese Emaill]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Die Vorlage für dieses Mail]]></Value>
 				<DictionaryItem Key="XsltTemplateDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Wählen Sie eine Schablone die das Format dieser Email bestimmt]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Wählen Sie eine Vorlage aus, die dieses E-Mail aus Bezeichnung, Beschreibung und den Bestelldaten erstellt]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 		</DictionaryItem>
 
 		<DictionaryItem Key="OrderFields">
-			<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Bestellfelder]]></Value>
+			<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Bestellangaben]]></Value>
 			<DictionaryItem Key="OrderStatusPicker">
 				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Status der Bestellung]]></Value>
 				<DictionaryItem Key="OrderStatusPickerDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Veränder den Status dieser Bestellung. Wenn "emails versenden" gewählt wurde, werden die gespeicherten Mails auf "Shop niveau" berücksichtigt]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Setzt den Status dieser Bestellung. Berücksichtigt die shop-spezifischen Einstellungen für den Versand]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="OrderPaid">
 				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Bestellung bezahlt?]]></Value>
 				<DictionaryItem Key="OrderPaidDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Ist der Auftrag vom Kunden bezahlt?]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Markiert, ob der Kunde diese Bestellung bezahlt hat]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="OrderDetails">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Bestelldaten]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Details zur Bestellung]]></Value>
 				<DictionaryItem Key="OrderDetailsDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Die Bestelldaten dieser Bestellung. Der Auftrag kann bearbeitet werden durch die Informationen der Sub-nodes dieser  ordernode an zu passen und danach diese ordernode zu publizieren]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Alle Daten dieser Bestellung. Die Daten der Bestellung können über die Unterobjekte bearbeitet werden]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="OrderGuid">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Einmalige Bestellnummer]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Eindeutige Bestellnummer]]></Value>
 				<DictionaryItem Key="OrderGuidDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Einmalige Nummer um den AUftrag zu identifizieren]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Eindeutige Nummer zur Identifikation der Bestellung]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 		</DictionaryItem>
 
 		<DictionaryItem Key="ProviderFields">
-			<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Provider Felder]]></Value>
+			<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Providereinstellungen]]></Value>
 			<DictionaryItem Key="PaymentProviderType">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Bezahlungsart]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Zahlungsart]]></Value>
 				<DictionaryItem Key="OrderGuidDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Selektieren Sie ob die Bezahlung online-, im Geschäft-, oder bei Lieferung beim Kunden zu Hause stattfindet]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Legen Sie fest, wie der Bezahlung erfolgen soll]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="Zone">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Zone]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Gebiet]]></Value>
 				<DictionaryItem Key="ZoneDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Eine Zone gibt den Ländern an womit dieser Provider arbeiten kann]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Ein Gebiet regelt, für welche Länder dieser Provider aktiv ist]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="SuccessNode">
 				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Bestätigungsseite]]></Value>
 				<DictionaryItem Key="SuccessNodeDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Der Umbraco node wohin der Kunde weitergeleitet wird nach einer erfolgreichen Bezahlung]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Auf dieses Umbraco-Dokument wird der Kunde weitergeleitet, wenn die Zahlung erfolgreich abgeschlossen wurde]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="ErrorNode">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Errorseite]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Fehlerseite]]></Value>
 				<DictionaryItem Key="ErrorNodeDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Der Umbraco node wohin der Kunde weitergeleitet wird falls die Bezahlung fehlgeschlagen ist]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Auf dieses Umbraco-Dokument wird der Kunde weitergeleitet, wenn die Zahlung nicht abgeschlossen werden konnte]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="TestMode">
-				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Im Testmode?]]></Value>
+				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Testbetrieb?]]></Value>
 				<DictionaryItem Key="TestModeDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Schalten Sie den Testmodus an um online Bezahlungen testen zu können]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Aktiviert den Testbetrieb um das Testen der Zahlunsgart zu ermöglichen]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="ShippingProviderType">
 				<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Versandart]]></Value>
 				<DictionaryItem Key="ShippingProviderTypeDescription">
-					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Wählen Sie entweder das die Bestellung beim Kunden geliefert wird oder das der Kunde die Bestellung selbst abholt]]></Value>
+					<Value LanguageId="2" LanguageCultureAlias="de-DE"><![CDATA[Wählen Sie entweder, dass die Bestellung dem Kunden geliefert wird oder dass der Kunde die Ware selbst abholt]]></Value>
 				</DictionaryItem>
 			</DictionaryItem>
 			<DictionaryItem Key="ShippingProviderRangeType">
