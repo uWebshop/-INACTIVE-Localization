@@ -31,6 +31,11 @@ try
 	string curlangdir = "";
 	string packagexmlSource = "";
 	
+	if (!System.IO.Directory.Exists(@".\output"))
+	{
+		System.IO.Directory.CreateDirectory(@".\output");
+	}
+		
 	List<string> dirs = new List<string>(Directory.EnumerateDirectories(@"..\", "??-??"));
 	
 	// - installer package XML
