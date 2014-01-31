@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DictionaryItems>
+	<DictionaryItem Key="uWebshop">
+		<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[uWebshop]]></Value>
+		
+		<DictionaryItem Key="GlobalFields">
+			<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Global Fields]]></Value>
+			<DictionaryItem Key="Title">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Title]]></Value>
+				<DictionaryItem Key="TitleDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The title of this item, as shown on the page]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Url">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Urlname]]></Value>
+				<DictionaryItem Key="UrlDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The urlname of this item, as shown in the addressbar of the visitors browser]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="MetaDescription">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Meta-Description]]></Value>
+				<DictionaryItem Key="MetaDescriptionDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The meta-description of this item, as seen in searchengine results]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Tags">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Tags]]></Value>
+				<DictionaryItem Key="TagsDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Keywords that describe this item]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="SubCategories">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Sub-Categories]]></Value>
+				<DictionaryItem Key="SubCategoriesDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select the categories that will be shown as sub-categories of this category]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Description">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Description]]></Value>
+				<DictionaryItem Key="DescriptionDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The content of this item that will describe the item on the page]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Image">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Image]]></Value>
+				<DictionaryItem Key="ImageDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select one image for this item]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Images">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Images]]></Value>
+				<DictionaryItem Key="ImagesDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select one or multiple images for this item]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Files">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Files]]></Value>
+				<DictionaryItem Key="FilesDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select one or multiple files for this item]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Disable">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Disable]]></Value>
+				<DictionaryItem Key="DisableDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Disableling this item will exclude it from the store]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="SKU">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[SKU]]></Value>
+				<DictionaryItem Key="SKUDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Stock keeping unit is a distinct item number to distinguish it from all other items in the catalog]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ProductCategories">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Product Categories]]></Value>
+				<DictionaryItem Key="ProductCategoriesDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select all the categories this product should be in. The parent-category is included as main-category by default. If the product does not have a partent-category, the first selected category will be the main-category]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Length">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Length]]></Value>
+				<DictionaryItem Key="LengthDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Length of the item. All lengths should be consistent in measurements to have uWebshop handle them correctly]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Width">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Width]]></Value>
+				<DictionaryItem Key="WidthDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Width of the item. All widths should be consistent in measurements to have uWebshop handle them correctly]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Height">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Height]]></Value>
+				<DictionaryItem Key="HeightDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Height of the item. All heights should be consistent in measurements to have uWebshop handle them correctly]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Weight">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Weight]]></Value>
+				<DictionaryItem Key="WeightDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Weight of the item. All weights should be consistent in measurements to have uWebshop handle them correctly]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Price">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Price]]></Value>
+				<DictionaryItem Key="PriceDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Price of the item. The currency is defined on the uWebshop store node in the stores section]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Ranges">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Ranges]]></Value>
+				<DictionaryItem Key="RangesDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[A range can be used to stack values, where the 'from' value is included and the 'to' value excluded in the range]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="VAT">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Value Added Tax Percentage]]></Value>
+				<DictionaryItem Key="VatDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The VAT is defined globally on the store node, but can be overwritten on a per-item basis]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Stock">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Stock Amount]]></Value>
+				<DictionaryItem Key="StockDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The amount of stock left for this product]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Ordered">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Order Count]]></Value>
+				<DictionaryItem Key="OrderedDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[How many times has this item been ordered in the store]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="StockStatus">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Status of the stock]]></Value>
+				<DictionaryItem Key="StockStatusDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Enable/Disable the use of stock for this item. Items without stock can be ordered unlimited]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="BackorderStatus">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Enable backorders?]]></Value>
+				<DictionaryItem Key="BackorderStatusDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Enable/Disable the use of backorders for this item. Items on backorder can be ordered even when the stock has reached 0. The stock will be updated to negative values]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="UseVariantStock">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Use variant stock]]></Value>
+				<DictionaryItem Key="UseVariantStockDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[When enabled the stock of the product is not used, but only of it's variants. If enabled, but no variants are created the stock of the product will be used]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Template">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Store specific template]]></Value>
+				<DictionaryItem Key="TemplateDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Overrules the default template set on the properties tab to enable store-specific templates]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Group">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The variant group]]></Value>
+				<DictionaryItem Key="GroupDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Variants are grouped together by the group name. Variant groups can be stacked per orderline to combine multiple variants on one product]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="RequiredVariant">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Variant group required for product?]]></Value>
+				<DictionaryItem Key="RequiredVariantDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[When a variant is set to required, the customer has to add one variant of the group to the orderline of the product before the order can be confirmed]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+		</DictionaryItem>
+
+		<DictionaryItem Key="DiscountFields">
+			<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Discount Fields]]></Value>
+			<DictionaryItem Key="DiscountType">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The discount type]]></Value>
+				<DictionaryItem Key="DiscountTypeDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Discount types can be a discount amount, a discount percentage, a new price or free shipping of the order]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Discount">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Discount]]></Value>
+				<DictionaryItem Key="DiscountDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The discount value, this value is dependant of the Discount Type (amount/percentage/new price)]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="CountdownEnabled">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Use the countdown]]></Value>
+				<DictionaryItem Key="CountdownEnabledDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Activate the countdown for this discount to limit the amount of customers being able to use this discount]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Countdown">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Countdown number left to use]]></Value>
+				<DictionaryItem Key="CountdownDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Number of times this discount can still be used by customers when the countdown is enabled]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OrderCondition">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Orderline Condition]]></Value>
+				<DictionaryItem Key="OrderConditionDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB">
+						<![CDATA[On the Xth item will set the discount when x items of the selected discount items on the order discounts are added to the order by the customer. When a percentage is set, it will be on the cheapest of x items. Per set of X items will set the discount when a set of the same x items of the selected discount items are added to the order by the customer. When a percentage discount is set, it will be over the amount of x items combined]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="NumberOfItemsCondition">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Condition number of items]]></Value>
+				<DictionaryItem Key="NumberOfItemsConditionDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Corresponds with the orderline condition to set the 'x' item count for the condition]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="MinimumAmount">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Minimum amount of the order]]></Value>
+				<DictionaryItem Key="MinimumAmountDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The minimum amount of the order before this discount is valid]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="CouponCode">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Coupon code]]></Value>
+				<DictionaryItem Key="CouponCodeDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Adding a coupon code to a discount will forces the customer to first add the coupon code to the order before the discount is applied]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="CouponCodes">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Coupon codes]]></Value>
+				<DictionaryItem Key="CouponCodesDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Add multiple coupon codes to a discount will forces the customer to first add the coupon code to the order before the discount is applied. Each coupon code has its own usage count to make them usable multiple times]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OncePerCustomer">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Allow discount once per customer]]></Value>
+				<DictionaryItem Key="CouponCodeDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[This will check if a logged-in customer already did use this discount in a previous order, before the discount is applied]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="MemberGroups">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Member Groups]]></Value>
+				<DictionaryItem Key="MemberGroupsDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Make the discount only valid if the logged-in customer is in one of the selected member groups]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Items">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Discount Items]]></Value>
+				<DictionaryItem Key="ItemsDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select the items that trigger this discount]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Products">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Products or Product Variants]]></Value>
+				<DictionaryItem Key="ProductsDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select the products or product variants this discount should apply to]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ExcludeVariants">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Exclude variants when a product is selected]]></Value>
+				<DictionaryItem Key="ExcludeVariantsDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[By default if a product is selected for discount the discount is applied to the product + variant on the orderline. By excluding variants on the discount the discount is only calculated over the product price]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="AffectedOrderlines">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Affected Orderlines]]></Value>
+				<DictionaryItem Key="AffectedOrderlinesDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Order discounts are calculated over the total of all orderlines. Selecting a product, or product variant here will only calculate the discount over the orderlines that contains the selected items]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			
+		</DictionaryItem>
+
+		<DictionaryItem Key="EmailFields">
+			<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Email Fields]]></Value>
+			<DictionaryItem Key="XsltTemplate">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The template to render this e-mail]]></Value>
+				<DictionaryItem Key="XsltTemplateDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Choose a template that will be used to create this email using the title and description on this node and the (order) data of the template]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+		</DictionaryItem>
+
+		<DictionaryItem Key="OrderFields">
+			<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Order Fields]]></Value>
+			<DictionaryItem Key="OrderStatusPicker">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Set the status of this order]]></Value>
+				<DictionaryItem Key="OrderStatusPickerDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Change the status of the curent order. Choose to have e-mails as set on the store document are send with the status change]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OrderPaid">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Is this order Paid?]]></Value>
+				<DictionaryItem Key="OrderPaidDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Mark if the order is paid or not]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OrderDetails">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Order Details]]></Value>
+				<DictionaryItem Key="OrderDetailsDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The Order Information. The order can be editted by changing the information on the sub-nodes of the order node]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OrderGuid">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Unique Order Id]]></Value>
+				<DictionaryItem Key="OrderGuidDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The unique order Id to identify this order]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+		</DictionaryItem>
+
+		<DictionaryItem Key="ProviderFields">
+			<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Provider Fields]]></Value>
+			<DictionaryItem Key="PaymentProviderType">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Type of Payment Provider]]></Value>
+				<DictionaryItem Key="OrderGuidDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select if this is an online payment provider, a payment in store provider or if the payment will be made when the goods are deliverd at the customers addres]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Zone">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Zone]]></Value>
+				<DictionaryItem Key="ZoneDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[A zone defines which countries can pay using this payment provider]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="SuccessNode">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Success Page after payment]]></Value>
+				<DictionaryItem Key="SuccessNodeDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The Umbraco node a customer is forwarderd to after a successful payment]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ErrorNode">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Error Page after payment]]></Value>
+				<DictionaryItem Key="ErrorNodeDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The Umbraco node a customer is forwarderd to after a failed payment]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="TestMode">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[In Testmode?]]></Value>
+				<DictionaryItem Key="TestModeDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Online providers can use the testmode to test transactions]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ShippingProviderType">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Type of Shipping Provider]]></Value>
+				<DictionaryItem Key="ShippingProviderTypeDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select if this provider is a provider that delivers the order to the customer, or that the customer should come pick-up the order]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ShippingProviderRangeType">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The range to apply this shipping provider to]]></Value>
+				<DictionaryItem Key="ShippingProviderRangeTypeDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select the range (order amount, order quantity or total weight of the order) the order should contain before this shipping provider can be chosen]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="RangeStart">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Start value of the range]]></Value>
+				<DictionaryItem Key="RangeStartDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The start value of the range. This value is included in the range (>=). When the rangetype is amount, use cents]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="RangeEnd">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[End value of the range]]></Value>
+				<DictionaryItem Key="RangeEndDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The end value of the range. This value is excluded in the range (<). When the rangetype is amount, use cents. When using 0, uWebshop will translate it to 'maximum value possible']]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Overrule">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Overrule other shipping options]]></Value>
+				<DictionaryItem Key="OverruleDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[When overrule is selected and the overrule shipping provider is matched with the current order of the customer, only overrule providers will be shown]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			</DictionaryItem>
+
+
+		<DictionaryItem Key="StoreFields">
+			<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Store Fields]]></Value>
+			<DictionaryItem Key="StoreCulture">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The culture of this store]]></Value>
+				<DictionaryItem Key="StoreCultureDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The language culture of this store is used to get the right dictionary items when sending emails]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="CountryCode">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The country this store is located]]></Value>
+				<DictionaryItem Key="CountryCodeDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Set the country this store is subjected to VAT]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="CurrencyCulture">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The Country for the currency]]></Value>
+				<DictionaryItem Key="CurrencyCultureDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Set the country for the currency this store will use]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="GlobalVat">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The default VAT]]></Value>
+				<DictionaryItem Key="GlobalVatDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Set the default VAT used throughout the store. Can be overruled per sellable item]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OrderNumberPrefix">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Prefix Ordernumbers]]></Value>
+				<DictionaryItem Key="OrderNumberPrefixDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Set a word that will be added in front of the ordernumbers for this store]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OrderNumberTemplate">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Template to build ordernumbers]]></Value>
+				<DictionaryItem Key="OrderNumberTemplateDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Define how the ordernumber will be created. You can use #orderId# #orderIdPadded#, #storeAlias#, #day#, #month# and #year#, plus any characters you need]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OrderNumberStartNumber">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Next order number]]></Value>
+				<DictionaryItem Key="OrderNumberStartNumberDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Define the ordernumber that the next order will start with. If the number is already used, the first unused number will be used]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="EnableStock">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Use Stock?]]></Value>
+				<DictionaryItem Key="EnableStockDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[When enabled, stock will be used for this store]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="StoreStock">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Use Store specific stock?]]></Value>
+				<DictionaryItem Key="StoreStockDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[When enabled, the stock will look for a store specific stock field and only update that field instead of global stock. If no store-specific stock is found, the global stock will be used]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="StoreEmailFrom">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[E-mailaddress used to send mails from]]></Value>
+				<DictionaryItem Key="StoreEmailFromDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The e-mailaddress the store will set as the sender address of all e-mails send]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="StoreEmailFromName">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[E-mail sender name]]></Value>
+				<DictionaryItem Key="StoreEmailFromNameDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The name the store will set as the sender name of all e-mails send]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="StoreEmailTo">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[E-mailaddress used to send mails to]]></Value>
+				<DictionaryItem Key="StoreEmailToDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The e-mailaddress uWebshop will send the emails to when emails are send to the store]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="AccountEmailCreated">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Create Account E-mail]]></Value>
+				<DictionaryItem Key="AccountEmailCreatedDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select the e-mail node in the uWebshop tree that is used to send to the customer when the customer creates an account]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="AccountForgotPassword">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Forgot Password E-Mail]]></Value>
+				<DictionaryItem Key="AccountForgotPasswordDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select the e-mail node in the uWebshop tree that is used to send to the customer when the customer asks for a password reset]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ConfirmationEmailStore">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Confirm E-Mail Store]]></Value>
+				<DictionaryItem Key="ConfirmationEmailStoreDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select the e-mail node in the uWebshop tree that is used to send to the store after checkout when the customer confirms the order. The order is not paid at this point]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ConfirmationEmailCustomer">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Confirm E-Mail Customer]]></Value>
+				<DictionaryItem Key="ConfirmationEmailCustomerDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select the e-mail node in the uWebshop tree that is used to send to the customer after checkout when the customer confirms the order. The order is not paid at this point]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OnlinePaymentEmailStore">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Online Paid E-Mail Store]]></Value>
+				<DictionaryItem Key="OnlinePaymentEmailStoreDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select the e-mail node in the uWebshop tree that is used to send to the store after checkout when the customer paid the order using an online payment provider]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OnlinePaymentEmailCustomer">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Online Paid E-Mail Customer]]></Value>
+				<DictionaryItem Key="OnlinePaymentEmailCustomerDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select the e-mail node in the uWebshop tree that is used to send to the customer after checkout when the customer paid the order using an online payment provider]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OfflinePaymentEmailStore">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Offline Payment E-Mail Store]]></Value>
+				<DictionaryItem Key="OfflinePaymentEmailStoreDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select the e-mail node in the uWebshop tree that is used to send to the store after checkout when the customer selected an offline payment provider]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OfflinePaymentEmailCustomer">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Offline Payment E-Mail Customer]]></Value>
+				<DictionaryItem Key="OfflinePaymentEmailCustomerDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select the e-mail node in the uWebshop tree that is used to send to the customer after checkout when the customer selected an offline payment provider]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="PaymentFailedEmailStore">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Online Payment Failed E-Mail Store]]></Value>
+				<DictionaryItem Key="PaymentFailedEmailStoreDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select the e-mail node in the uWebshop tree that is used to send to the store after checkout when the customer selected an online payment provider, but the payment failed]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="PaymentFailedEmailCustomer">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Online Payment Failed E-Mail Customer]]></Value>
+				<DictionaryItem Key="PaymentFailedEmailCustomerDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select the e-mail node in the uWebshop tree that is used to send to the customer after checkout when the customer selected an online payment provider, but the payment failed]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="DispatchedEmailStore">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Order Dispatched E-Mail Store]]></Value>
+				<DictionaryItem Key="DispatchedEmailStoreDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select the e-mail node in the uWebshop tree that is used to send to the store when the order status is changed to "dispatched"]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="DispatchedEmailCustomer">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Order Dispatched E-Mail Customer]]></Value>
+				<DictionaryItem Key="DispatchedEmailCustomerDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select the e-mail node in the uWebshop tree that is used to send to the customer when the order status is changed to "dispatched"]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="CancelEmailStore">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Order Cancelled E-Mail Store]]></Value>
+				<DictionaryItem Key="CancelEmailStoreDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select the e-mail node in the uWebshop tree that is used to send to the store when the order status is changed to "cancelled"]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="CancelEmailCustomer">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Order Cancelled E-Mail Customer]]></Value>
+				<DictionaryItem Key="CancelEmailCustomerDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select the e-mail node in the uWebshop tree that is used to send to the customer when the order status is changed to "cancelled"]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ClosedEmailStore">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Order Closed E-Mail Store]]></Value>
+				<DictionaryItem Key="ClosedEmailStoreDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select the e-mail node in the uWebshop tree that is used to send to the store when the order status is changed to "closed"]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ClosedEmailCustomer">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Order Closed E-Mail Customer]]></Value>
+				<DictionaryItem Key="ClosedEmailCustomerDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select the e-mail node in the uWebshop tree that is used to send to the customer when the order status is changed to "closed"]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="PendingEmailStore">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Order Pending E-Mail Store]]></Value>
+				<DictionaryItem Key="PendingEmailStoreDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select the e-mail node in the uWebshop tree that is used to send to the store when the order status is changed to "pending"]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="PendingEmailCustomer">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Order Pending E-Mail Customer]]></Value>
+				<DictionaryItem Key="PendingEmailCustomerDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select the e-mail node in the uWebshop tree that is used to send to the customer when the order status is changed to "pending"]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="TemporaryOutOfStockEmailStore">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Order Temporary Out Of Stock E-Mail Store]]></Value>
+				<DictionaryItem Key="TemporaryOutOfStockEmailStoreDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select the e-mail node in the uWebshop tree that is used to send to the store when the order status is changed to "temporary out of stock"]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="TemporaryOutOfStockEmailCustomer">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Order Temporary Out Of Stock E-Mail Customer]]></Value>
+				<DictionaryItem Key="TemporaryOutOfStockEmailCustomerDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select the e-mail node in the uWebshop tree that is used to send to the customer when the order status is changed to "temporary out of stock"]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="UndeliverableEmailStore">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Order Undeliverable E-Mail Store]]></Value>
+				<DictionaryItem Key="UndeliverableEmailStoreDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select the e-mail node in the uWebshop tree that is used to send to the store when the order status is changed to "undeliverable"]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="UndeliverableEmailCustomer">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Order Undeliverable E-Mail Customer]]></Value>
+				<DictionaryItem Key="UndeliverableEmailCustomerDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select the e-mail node in the uWebshop tree that is used to send to the customer when the order status is changed to "undeliverable"]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ReturnEmailStore">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Order Returned Store]]></Value>
+				<DictionaryItem Key="ReturnEmailStoreDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select the e-mail node in the uWebshop tree that is used to send to the store when the order status is changed to "returned"]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ReturnEmailCustomer">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Order Returned Customer]]></Value>
+				<DictionaryItem Key="ReturnEmailCustomerDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Select the e-mail node in the uWebshop tree that is used to send to the customer when the order status is changed to "returned"]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+		</DictionaryItem>
+
+		<DictionaryItem Key="SettingFields">
+			<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Setting Fields]]></Value>
+			<DictionaryItem Key="IncludingVat">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[All prices are including VAT?]]></Value>
+				<DictionaryItem Key="IncludingVatSettingDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[When enabled, uWebshop will handle all the prices entered in the store as including VAT]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="LowercaseUrls">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Force lowercase urls]]></Value>
+				<DictionaryItem Key="LowercaseUrlsSettingDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[This setting forces uWebshop to output all URLs in lowercase.]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="IncompleteOrderLifetime">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Lifetime of an incomplete order]]></Value>
+				<DictionaryItem Key="OrderLifetimeSettingDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Set the lifetime of incomplete orders in minutes (default 360 minutes)]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			
+			<DictionaryItem Key="UseBackorders">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Enable backorders by default]]></Value>
+				<DictionaryItem Key="UseBackordersDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Use backorders to enable the ordering of products when there is no stock. This setting can be overwritten on products and variants]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="EnableTestmode">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Enable testmode]]></Value>
+				<DictionaryItem Key="EnableTestmodeDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Make this store work in testmode to set all orders, payment- and shipping-providers as in testmode. Can be overwritten on each payment/shipping provider]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Currencies">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Set Currencies]]></Value>
+				<DictionaryItem Key="CurrenciesDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Set the currencies available for this store. The index (exchange rate) is added over the default price value entered on an item]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			
+		</DictionaryItem>
+		
+		<!-- SECTIONS -->
+		<DictionaryItem Key="uWebshopSectionDescription">
+			<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Creates the uWebshop Section in the Umbraco Content Tree]]></Value>
+		</DictionaryItem>
+		<DictionaryItem Key="Catalog">
+			<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Catalog]]></Value>
+			<DictionaryItem Key="CatalogDescription">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The catalog contains all your categories, product and product variants.]]></Value>
+			</DictionaryItem>
+			<DictionaryItem Key="Category">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Category]]></Value>
+				<DictionaryItem Key="CategoryDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[A category in your store.]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="CategoryRepository">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Category Repository]]></Value>
+				<DictionaryItem Key="CategoryRepositoryDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The category repository contains all the categories in your store. Can also include products and product variants.]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Product">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Product]]></Value>
+				<DictionaryItem Key="ProductDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[A product in your store.]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ProductRepository">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Product Repository]]></Value>
+				<DictionaryItem Key="ProductRepositoryDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The product repository can contain products and product variants to sell in your store.]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ProductVariant">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Product Variant]]></Value>
+				<DictionaryItem Key="ProductVariantDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[A product variant for a product in your store.]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="DiscountRepository">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Discount Repository]]></Value>
+				<DictionaryItem Key="DiscountRepositoryDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The discount repository contains your order and product discounts.]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="DiscountOrderSection">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Discount Order Section]]></Value>
+				<DictionaryItem Key="DiscountOrderSectionDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The discount order section contains your order discounts. Order discounts are discounts that are handled when the customer adds something to their basket.]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="DiscountProduct Section">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Discount Product Section]]></Value>
+				<DictionaryItem Key="DiscountOrderSectionDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The discount product section contains your product discounts. Product discounts are discounts that are visible when the customer view catalog data before adding to the basket.]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="DiscountOrder">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Order Discount]]></Value>
+				<DictionaryItem Key="DiscountOrderDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Order discounts are discounts that are handled when the customer adds something to their basket.]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="DiscountProduct">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Product Discount]]></Value>
+				<DictionaryItem Key="DiscountProductDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Product discounts are discounts that are visible when the customer view catalog data before adding to the basket.]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="EmailRepository">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Email Repository]]></Value>
+				<DictionaryItem Key="EmailRepositoryDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The email repository contains the emails to be send to the store and the customers.]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="EmailTemplateCustomerSection">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Email Template Customer Section]]></Value>
+				<DictionaryItem Key="EmailTemplateCustomerSectionDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The email template customer section contains the emails to be send to the customers.]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="EmailTemplateStoreSection">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Email Template Store Section]]></Value>
+				<DictionaryItem Key="EmailTemplateStoreSectionDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The email template store section contains the emails to be send to the store email address.]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="CustomerEmail">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Customer Email]]></Value>
+				<DictionaryItem Key="CustomerEmailDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The email template used to create e-mails to customers. Attach emails to events of a store on the store node]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="StoreEmail">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[StoreEmail]]></Value>
+				<DictionaryItem Key="StoreEmailDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The email template used to create e-mails to the store. Attach emails to events of a store on the store node]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OrderRepository">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Order Repository]]></Value>
+				<DictionaryItem Key="OrderRepositoryDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The order repository contains all the orders and the order status folders of your stores]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="DateFolder">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Date Folder]]></Value>
+				<DictionaryItem Key="DateFolderDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[When opening an order, orders are displayed with the help of date folders to quickly identify orders]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Order">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Order]]></Value>
+				<DictionaryItem Key="OrderDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[An order placed in your store]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OrderSection">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Order Section]]></Value>
+				<DictionaryItem Key="OrderSectionDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Easily view orders by creating order section with a specific status]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OrderStoreFolder">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Order Store Folder]]></Value>
+				<DictionaryItem Key="OrderSectionDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Groups orders by store]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OrderedProduct">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Ordered Product]]></Value>
+				<DictionaryItem Key="OrderedProductDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[An ordered product contains all the information that is saved of the product in the order]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OrderedProductVariant">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Ordered Product Variant]]></Value>
+				<DictionaryItem Key="OrderedProductVariantDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[An ordered product variant contains all the information that is saved of the product variant in the order]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="PaymentProviderRepository">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Payment Provider Repository]]></Value>
+				<DictionaryItem Key="PaymentProviderRepositoryDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The payment provider repository contains all the payment providers and the payment zones]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="PaymentProviderSection">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Payment Provider Section]]></Value>
+				<DictionaryItem Key="PaymentProviderRepositoryDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The payment provider section contains all the payment providers and their methods]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="PaymentProviderZoneSection">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Payment Provider Zone Section]]></Value>
+				<DictionaryItem Key="PaymentProviderZoneSectionDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The payment provider zone section contains all the payment providers zones]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="PaymentProvider">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Payment Provider]]></Value>
+				<DictionaryItem Key="PaymentProviderDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[A payment provider for your store to allow customer to make payments]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="PaymentProviderMethod">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Payment Provider Method]]></Value>
+				<DictionaryItem Key="PaymentProviderMethodDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[A payment provider method can set a price to a payment provider. One payment provider can have multiple methods.]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="PaymentProviderZone">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Payment Provider Zone]]></Value>
+				<DictionaryItem Key="PaymentProviderZoneDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[A payment provider zone defines what countries can pay with a certain payment provider.]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ShippingProviderRepository">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Shipping Provider Repository]]></Value>
+				<DictionaryItem Key="ShippingProviderRepositoryDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The shipping provider repository contains all the shipping providers and the shipping zones]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ShippingProviderSection">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Shipping Provider Section]]></Value>
+				<DictionaryItem Key="ShippingProviderRepositoryDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The shipping provider section contains all the shipping providers and their methods]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ShippingProviderZoneSection">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Shipping Provider Zone Section]]></Value>
+				<DictionaryItem Key="ShippingProviderZoneSectionDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The shipping provider zone section contains all the shipping providers zones]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ShippingProvider">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Shipping Provider]]></Value>
+				<DictionaryItem Key="ShippingProviderDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[A shipping provider for your store to allow customer to select a delivery method]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ShippingProviderMethod">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Shipping Provider Method]]></Value>
+				<DictionaryItem Key="ShippingProviderMethodDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[A shipping provider method can set a price to a shipping provider. One shipping provider can have multiple methods.]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ShippingProviderZone">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Shipping Provider Zone]]></Value>
+				<DictionaryItem Key="ShippingProviderZoneDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[A shipping provider zone defines what countries can pay with a certain shipping provider.]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="StoreRepository">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Store Repository]]></Value>
+				<DictionaryItem Key="StoreRepositoryDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[The store repository contains all the stores for your webshop. One shop can have unlimited stores]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Store">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Store]]></Value>
+				<DictionaryItem Key="StoreDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[A store in uWebshop defines the currency, the country of the store, when and what emails to send and other settings]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Settings">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Settings]]></Value>
+				<DictionaryItem Key="SettingsSectionDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Set global settings for uWebshop that work on all your stores]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+		</DictionaryItem>
+		
+	</DictionaryItem>
+
+</DictionaryItems>

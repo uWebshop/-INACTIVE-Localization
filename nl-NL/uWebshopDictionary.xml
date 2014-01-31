@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DictionaryItems>
+	<DictionaryItem Key="uWebshop">
+		<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[uWebshop]]></Value>
+		
+		<DictionaryItem Key="GlobalFields">
+			<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Algemene Velden]]></Value>
+			<DictionaryItem Key="Title">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Titel]]></Value>
+				<DictionaryItem Key="TitleDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De titel van dit item, zoals deze wordt getoond op de pagina]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Url">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Url naam]]></Value>
+				<DictionaryItem Key="UrlDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De Url-naam van dit item, zoals deze wordt getoond in de adresbalk van de browser van de bezoeker]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="MetaDescription">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Meta-Omschrijving]]></Value>
+				<DictionaryItem Key="MetaDescriptionDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De meta-omschrijving van dit item, zoals bij zoekmachines getoond wordt]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Tags">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Tags]]></Value>
+				<DictionaryItem Key="TagsDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kernwoorden welke dit item beschrijven]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="SubCategories">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Sub-Categorieën]]></Value>
+				<DictionaryItem Key="SubCategoriesDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Selecteer de Categorieën, welke (ook) als sub-categorieën onder deze cateogrie horen. De categorieën welke zicht direct onder deze categorie bevinden, worden automatisch al meegenomen]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Description">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Omschrijving]]></Value>
+				<DictionaryItem Key="DescriptionDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De content welke dit item omschrijft]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Image">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Afbeelding]]></Value>
+				<DictionaryItem Key="ImageDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Selecteer een afbeelding voor dit item]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Images">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Afbeeldingen]]></Value>
+				<DictionaryItem Key="ImagesDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Seleteer een, of meerdere, afbeeldingen voor dit item]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Files">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bestanden]]></Value>
+				<DictionaryItem Key="FilesDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Selecteer een, of meerdere, bestanden voor dit item]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Disable">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Uitschakelen]]></Value>
+				<DictionaryItem Key="DisableDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Schakel dit item uit, zodat het niet getoond wordt in de Winkel(s)]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="SKU">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[SKU]]></Value>
+				<DictionaryItem Key="SKUDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Vooraadbeheer nummer, is een uniek nummer om dit item te onderscheiden van alle andere items in de catalogus]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ProductCategories">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Product Categorieën]]></Value>
+				<DictionaryItem Key="ProductCategoriesDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Selecteer de Categorieën waar dit product in moet voorkomen. De categorie waaronder dit produkt zich onder bevind, wordt standaard al meegenomen. Als het product geen parent-categorie heeft, wordt de eerst gekozen categorie de hoofdcategorie.]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Length">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Lengte]]></Value>
+				<DictionaryItem Key="LengthDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Lengte van dit item. Alle lengten moeten in dezelfde maatvoering worden ingevoerd om uWebshop er correct mee te kunnen laten rekenen]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Width">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Breedte]]></Value>
+				<DictionaryItem Key="WidthDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Breedte van dit item. Alle breedten moeten in dezelfde maatvoering worden ingevoerd om uWebshop er correct mee te kunnen laten rekenen]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Height">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Hoogte]]></Value>
+				<DictionaryItem Key="HeightDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Hoogte van dit item. Alle hoogten moeten in dezelfde maatvoering worden ingevoerd om uWebshop er correct mee te kunnen laten rekenen]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Weight">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Gewicht]]></Value>
+				<DictionaryItem Key="WeightDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Gewicht van dit item. Alle gewichten moeten in dezelfde maatvoering worden ingevoerd om uWebshop er correct mee te kunnen laten rekenen]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Price">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Prijs]]></Value>
+				<DictionaryItem Key="PriceDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Prijs van dit item. De valuta wordt op de winkel, in de winkel sectie, gedefinieerd]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Ranges">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Staffels]]></Value>
+				<DictionaryItem Key="RangesDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Een staffel wordt gebruikt om staffelprijzen te creëren. De waarde ingevuld bij "vanaf" wordt meegenomen en de "tot" waarde wordt niet meegenoen in de staffel]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="VAT">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[BTW Percentage]]></Value>
+				<DictionaryItem Key="VatDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[BTW wordt globaal op de winkel gedefinieerd, maar kan per item worden overschreven.]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Stock">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Voorraad]]></Value>
+				<DictionaryItem Key="StockDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De hoeveelheid voorraad nog beschikbaar voor dit item]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Ordered">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bestelhoeveelheid]]></Value>
+				<DictionaryItem Key="OrderedDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Hoeveel is dit product al besteld?]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="StockStatus">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Vooraad aan/uit]]></Value>
+				<DictionaryItem Key="StockStatusDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Zet gebruik van stock aan of uit. Items zonder stock kunnen onbeperkt besteld worden]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="BackorderStatus">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Gebruik backorders?]]></Value>
+				<DictionaryItem Key="BackorderStatusDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Zet het gebruik van backorders aan of uit. Indien backorder is ingeschakeld kan dit product onbeperkt besteld worden, ook als er geen voorraad meer is. In dat geval wordt de voorraad negatief doorgeteld]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="UseVariantStock">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Gebruik alleen varianten voorraad]]></Value>
+				<DictionaryItem Key="UseVariantStockDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Zet het gebruik van vooraad voor alleen de varianten aan. Hierdoor wordt de voorraad van dit item niet gebruikt, maar alleen van de varianten]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Template">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Layout]]></Value>
+				<DictionaryItem Key="TemplateDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kies de layout die voor deze winkel voor dit item getoond moet worden. Standaard wordt de layout zoals gezet op de "Properties" tab gebruikt]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Group">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Variantgroep]]></Value>
+				<DictionaryItem Key="GroupDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Varianten worden gegroepeerd op groepnaam. Varianten uit verschillende groepen kunnen gecombineerd worden]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="RequiredVariant">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Variantgroup verplicht]]></Value>
+				<DictionaryItem Key="RequiredVariantDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Indien verplicht zal een klant 1 keuze moeten maken uit de items van deze variantgroep voordat de order bevestigd kan worden]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+		</DictionaryItem>
+
+		<DictionaryItem Key="DiscountFields">
+			<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kortingvelden]]></Value>
+			<DictionaryItem Key="DiscountType">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kortingstype]]></Value>
+				<DictionaryItem Key="DiscountTypeDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De verschillende kortingstypen zijn; bedrag, percentage, nieuw bedrag of gratis verzenden]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Discount">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Korting]]></Value>
+				<DictionaryItem Key="DiscountDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De hoeveelheid korting. Dit veld is afhankelijk van gekozen kortingstype (bedrag/percentage/nieuwe prijs/gratis verzending)]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="CountdownEnabled">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Gebruik Countdown]]></Value>
+				<DictionaryItem Key="CountdownEnabledDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Activeer de countdown om het aantal klanten dat de korting kan gebruiken te limiteren]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Countdown">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Countdown Aantal]]></Value>
+				<DictionaryItem Key="CountdownDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Het aantal maal dat deze korting nog gebruikt kan worden indien 'gebruik countdown' aangezet is]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OrderCondition">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Orderregel voorwaarde]]></Value>
+				<DictionaryItem Key="OrderConditionDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL">
+						<![CDATA[Op elk Xe item, zal de discount activeren als er x items van de geselecteerde kortings items zijn besteld door de klant. Indien kortingstype een percentage is wordt de korting gerekend over het goedkoopste item. "Per set van X items" geeft een discount als er een set van dezelfde x items is besteld door de klant. Als kortingstype een percentage is, wordt de korting over het totaal van de items berekend]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="NumberOfItemsCondition">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Aantal items bij voorwaarde]]></Value>
+				<DictionaryItem Key="NumberOfItemsConditionDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Het aantal items behorende bij de orderregel voorwaarde]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="MinimumAmount">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Minimumbedrag]]></Value>
+				<DictionaryItem Key="MinimumAmountDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Het minimumbedrag van de order voordat de korting geldig is]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="CouponCode">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Couponcode]]></Value>
+				<DictionaryItem Key="CouponCodeDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De couponcode welke de klant moet invoeren voor de korting van toepassing is]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="CouponCodes">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Couponcodes]]></Value>
+				<DictionaryItem Key="CouponCodesDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De couponcode welke de klant moet invoeren voor de korting van toepassing is. Elke couponcode kan een count meekrijgen om een couponcode meermalig geldig te maken]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OncePerCustomer">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Korting is eenmalig per klant]]></Value>
+				<DictionaryItem Key="CouponCodeDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Korting is alleen geldig bij 1 bestelling van dezelfde klant. Werkt alleen bij ingelogde klanten]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="MemberGroups">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Klantgroepen]]></Value>
+				<DictionaryItem Key="MemberGroupsDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bepaal voor welke klantgroepen deze korting van toepassing is]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Items">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kortingitems]]></Value>
+				<DictionaryItem Key="ItemsDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Selecteer de items welke in de order moeten voorkomen voordat de korting van toepassing is]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Products">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Producten or Product Varianten]]></Value>
+				<DictionaryItem Key="ProductsDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Selecteerd de producten of product varianten voor deze discount]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ExcludeVariants">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Sluit varianten uit]]></Value>
+				<DictionaryItem Key="ExcludeVariantsDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Standard als een product is geslecteerd, is de korting over het product + varianten. Hiermee kan de korting alleen over het product berekend worden]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="AffectedOrderlines">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Toepassen op specifieke orderregels]]></Value>
+				<DictionaryItem Key="AffectedOrderlinesDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Orderkortingen worden berekend over het totaalbedrag van alle orderregels. Als hier een product of variant geselecteerd wordt zal de korting alleen worden berekend over de orderregels met dat product/variant.]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+		</DictionaryItem>
+
+		<DictionaryItem Key="EmailFields">
+			<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Email velden]]></Value>
+			<DictionaryItem Key="XsltTemplate">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De template voor deze email]]></Value>
+				<DictionaryItem Key="XsltTemplateDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kies een template welke gebruikt zal worden om de opmaak van deze email te bepalen]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+		</DictionaryItem>
+
+		<DictionaryItem Key="OrderFields">
+			<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bestel velden]]></Value>
+			<DictionaryItem Key="OrderStatusPicker">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Status van de bestelling]]></Value>
+				<DictionaryItem Key="OrderStatusPickerDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Verander de status van deze bestelling. Indien "verstuur emails" wordt gekozen, houd deze rekening met de ingestelde mails op de "winkel" node]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OrderPaid">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bestelling betaald?]]></Value>
+				<DictionaryItem Key="OrderPaidDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Is deze order betaald door de klant?]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OrderDetails">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bestelgegevens]]></Value>
+				<DictionaryItem Key="OrderDetailsDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De bestelgegevens van deze bestelling. De order kan bewerkt worden door de informatie op de sub-nodes van deze ordernode aan te passen en daarna deze ordernode te publiceren]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OrderGuid">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Unique Bestelnummer]]></Value>
+				<DictionaryItem Key="OrderGuidDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Uniek nummer om deze order te identificeren]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+		</DictionaryItem>
+
+		<DictionaryItem Key="ProviderFields">
+			<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Provider Velden]]></Value>
+			<DictionaryItem Key="PaymentProviderType">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Type Betaaldienst]]></Value>
+				<DictionaryItem Key="OrderGuidDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Selecteer of dit een online betaalprovider is, de betaling plaatsvind in de winkel of bij de klant aan de deur bij aflevering]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Zone">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Zone]]></Value>
+				<DictionaryItem Key="ZoneDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Een zone geeft de landen aan waar deze provider mee kan werken]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="SuccessNode">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Succes pagina]]></Value>
+				<DictionaryItem Key="SuccessNodeDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De Umbraco node waar de klant heen wordt gestuurd na een successvolle betaling]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ErrorNode">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Error pagina]]></Value>
+				<DictionaryItem Key="ErrorNodeDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De Umbraco node waar de klant heen wordt gestuurd na een mislukte betaling]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="TestMode">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[In Testmode?]]></Value>
+				<DictionaryItem Key="TestModeDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Zet de testmodus aan bij online betaaldiensten om betalingen te kunnen testen]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ShippingProviderType">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Type Verzendmethode]]></Value>
+				<DictionaryItem Key="ShippingProviderTypeDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kies of deze methode de bestelling bij de klant afleverd of de klant de bestelling moet ophalen]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ShippingProviderRangeType">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bestelcriteria]]></Value>
+				<DictionaryItem Key="ShippingProviderRangeTypeDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Selecteer de criteria (bestelbedrag, bestelhoeveelheid of gewicht) waar deze order aan moet voldoen om gekozen te kunenn worden door de klant]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="RangeStart">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Startwaarde bestelcriteria]]></Value>
+				<DictionaryItem Key="RangeStartDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Deze waarde wordt meegenomen in de bestelcriteria (>=). Indien als criteria "bestelbedrag" gekozen is, vul hier het bedrag in centen in]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="RangeEnd">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Eindwaarde bestelcriteria]]></Value>
+				<DictionaryItem Key="RangeEndDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Deze waarde wordt niet meegenomen in de bestelcriteria (<). Indien als criteria "bestelbedrag" gekozen is, vul hier het bedrag in centen in. Indien hier '0' wordt ingevuld zet uWebsho dit om naar "oneindig"]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Overrule">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Overrule providers]]></Value>
+				<DictionaryItem Key="OverruleDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Wanneer "overrule" is gekozen, worden tijdens het bestelproces als er een overrule provider matcht met de klant, alleen providers met overrule getoond]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+		</DictionaryItem>
+
+
+		<DictionaryItem Key="StoreFields">
+			<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Winkel velden]]></Value>
+			<DictionaryItem Key="StoreCulture">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Taal van de winkel]]></Value>
+				<DictionaryItem Key="StoreCultureDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De taal van de winkel wordt gebruikt om dictionary velden te vertalen bij het versturen van emails]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="CountryCode">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Land van de winkel]]></Value>
+				<DictionaryItem Key="CountryCodeDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Dit land wordt gebruikt voor BTW berekeningen]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="CurrencyCulture">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Landkeuze voor Valuta]]></Value>
+				<DictionaryItem Key="CurrencyCultureDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Wordt gebruikt om de valuta te bepalen voor de bedragen in deze winkel]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="GlobalVat">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Standaard BTW]]></Value>
+				<DictionaryItem Key="GlobalVatDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Het standaard BTW percentage voor deze winkel. Kan per catalogus-item worden overschreven]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OrderNumberPrefix">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Voorvoegsel bestelnummers]]></Value>
+				<DictionaryItem Key="OrderNumberPrefixDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Een woord dat als voorvoegsel voor elk bestelnummer komt]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OrderNumberTemplate">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bestelnummer template]]></Value>
+				<DictionaryItem Key="OrderNumberTemplateDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bepaal het bestelnummer. Er kan gebruik gemaakt worden van: #orderId# #orderIdPadded#, #storeAlias#, #day#, #month# and #year#. Dit kan worden uitgebreid met elk willekeurig woord/teken en in een eigen gewenste volgorde]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OrderNumberStartNumber">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Volgend bestelnummer]]></Value>
+				<DictionaryItem Key="OrderNumberStartNumberDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Het volgende ordernummer dat uitgegeven moet worden. Als dit nummer al gebruik is wordt het eerstvolgende ongebruikte nummer gebruikt]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="EnableStock">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Gebruik vooraad?]]></Value>
+				<DictionaryItem Key="EnableStockDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Werkt deze winkel met voorraad? Dit kan per catalogus-item worden overschreven]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="StoreStock">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Gebruik winkel-specifieke voorraad]]></Value>
+				<DictionaryItem Key="StoreStockDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Werkt deze winkel met specifiek vooraad voor deze winkel in plaats van algemene voorraad. Als er geen winkel-specifieke vooraadvelden zijn, wordt automatisch de algemen voorraad gebruikt]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="StoreEmailFrom">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Verzend E-mailadres ]]></Value>
+				<DictionaryItem Key="StoreEmailFromDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Het emailadres waarvandaan de emails uit deze winkel verstuurd worden]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="StoreEmailFromName">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Naam Afzender]]></Value>
+				<DictionaryItem Key="StoreEmailFromNameDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De naam van de afzender van de emails]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="StoreEmailTo">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Ontvang E-mailadres]]></Value>
+				<DictionaryItem Key="StoreEmailToDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Het emailadres waarheen de emails naar deze winkel worden gestuurd]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="AccountEmailCreated">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Account Aanmaken E-mail]]></Value>
+				<DictionaryItem Key="AccountEmailCreatedDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kies de email-node welke gebruikt wordt voor het versturen van de email als de klant een account heeft aangemaakt]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="AccountForgotPassword">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Wachtwoord Vergeten E-Mail]]></Value>
+				<DictionaryItem Key="AccountForgotPasswordDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kies de email-node welke gebruikt wordt voor het versturen van de email als de klant zijn wachtwoord vergeten is]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ConfirmationEmailStore">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bestig E-Mail Winkel]]></Value>
+				<DictionaryItem Key="ConfirmationEmailStoreDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kies de email-node welke gebruikt wordt om te versturen naar de winkel als de klant de order bevestigd heeft. De order is hier nog niet betaald]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ConfirmationEmailCustomer">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bevestig E-Mail Klant]]></Value>
+				<DictionaryItem Key="ConfirmationEmailCustomerDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kies de email-node welke gebruikt wordt om te versturen naar de klant als de klant de order bevestigd heeft. De order is hier nog niet betaald]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OnlinePaymentEmailStore">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Online Betaald E-Mail Winkel]]></Value>
+				<DictionaryItem Key="OnlinePaymentEmailStoreDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kies de email-node welke gebruikt wordt om te versturen naar de winkel als de klant de order online betaald heeft]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OnlinePaymentEmailCustomer">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Online Betaald E-Mail Klant]]></Value>
+				<DictionaryItem Key="OnlinePaymentEmailCustomerDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kies de email-node welke gebruikt wordt om te versturen naar de klant als de klant de order online betaald heeft]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OfflinePaymentEmailStore">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Offline betaling E-Mail Winkel]]></Value>
+				<DictionaryItem Key="OfflinePaymentEmailStoreDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kies de email-node welke gebruikt wordt om te versturen naar de winkel als de klant een order plaats met "offline betalen"]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OfflinePaymentEmailCustomer">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Offline betaling E-Mail Klant]]></Value>
+				<DictionaryItem Key="OfflinePaymentEmailCustomerDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kies de email-node welke gebruikt wordt om te versturen naar de klant als de klant een order plaats met "offline betalen"]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="PaymentFailedEmailStore">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Online Betaling Mislukt E-Mail Winkel]]></Value>
+				<DictionaryItem Key="PaymentFailedEmailStoreDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kies de email-node welke gebruikt wordt om te versturen naar de winkel als de klant een order plaats met online betaaloptie, maar de betaling mislukt]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="PaymentFailedEmailCustomer">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Online Betaling Mislukt E-Mail Klant]]></Value>
+				<DictionaryItem Key="PaymentFailedEmailCustomerDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kies de email-node welke gebruikt wordt om te versturen naar de klant als de klant een order plaats met online betaaloptie, maar de betaling mislukt]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="DispatchedEmailStore">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bestelling Verzonden E-Mail Winkel]]></Value>
+				<DictionaryItem Key="DispatchedEmailStoreDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kies de email-node welke gebruikt wordt om te versturen naar de winkel als de bestelling verzonder wordt]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="DispatchedEmailCustomer">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bestelling Verzondern E-Mail Klant]]></Value>
+				<DictionaryItem Key="DispatchedEmailCustomerDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kies de email-node welke gebruikt wordt om te versturen naar de klant als de bestelling verzonder wordt]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="CancelEmailStore">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bestelling Geannuleerd E-Mail Winkel]]></Value>
+				<DictionaryItem Key="CancelEmailStoreDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kies de email-node welke gebruikt wordt om te versturen naar de winkel als de bestelling geannuleerd wordt]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="CancelEmailCustomer">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bestelling Geannuleerd E-Mail Klant]]></Value>
+				<DictionaryItem Key="CancelEmailCustomerDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kies de email-node welke gebruikt wordt om te versturen naar de klant als de bestelling geannuleerd wordt]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ClosedEmailStore">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bestelling Afgesloten E-Mail Winkel]]></Value>
+				<DictionaryItem Key="ClosedEmailStoreDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kies de email-node welke gebruikt wordt om te versturen naar de winkel als de bestelling afgsloten is]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ClosedEmailCustomer">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bestelling Afgesloten E-Mail Klant]]></Value>
+				<DictionaryItem Key="ClosedEmailCustomerDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kies de email-node welke gebruikt wordt om te versturen naar de klant als de bestelling afgsloten is]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="PendingEmailStore">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bestelling In Afwachting E-Mail Winkel]]></Value>
+				<DictionaryItem Key="PendingEmailStoreDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kies de email-node welke gebruikt wordt om te versturen naar de winkel als de bestelling ergens op wacht, voordat er vervolgstappen kunnen worden genomen]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="PendingEmailCustomer">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bestelling In Afwachting E-Mail Klant]]></Value>
+				<DictionaryItem Key="PendingEmailCustomerDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kies de email-node welke gebruikt wordt om te versturen naar de klant als de bestelling ergens op wacht, voordat er vervolgstappen kunnen worden genomen]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="TemporaryOutOfStockEmailStore">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Tijdelijk Geen Voorraad E-Mail Winkel]]></Value>
+				<DictionaryItem Key="TemporaryOutOfStockEmailStoreDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kies de email-node welke gebruikt wordt om te versturen naar de winkel als de bestelling tijdelijk niet op voorraad is]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="TemporaryOutOfStockEmailCustomer">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Tijdelijk Geen Voorraad E-Mail Klant]]></Value>
+				<DictionaryItem Key="TemporaryOutOfStockEmailCustomerDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kies de email-node welke gebruikt wordt om te versturen naar de klant als de bestelling tijdelijk niet op voorraad is]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="UndeliverableEmailStore">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bestelling Onbezorgbaar E-Mail Winkel]]></Value>
+				<DictionaryItem Key="UndeliverableEmailStoreDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kies de email-node welke gebruikt wordt om te versturen naar de winkel als de bestelling niet geleverd kan worden]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="UndeliverableEmailCustomer">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bestelling Onbezorgbaar E-Mail Klant]]></Value>
+				<DictionaryItem Key="UndeliverableEmailCustomerDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kies de email-node welke gebruikt wordt om te versturen naar de klant als de bestelling niet geleverd kan worden]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ReturnEmailStore">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bestelling Retour E-Mail Winkel]]></Value>
+				<DictionaryItem Key="ReturnEmailStoreDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kies de email-node welke gebruikt wordt om te versturen naar de winkel als de bestelling geretourneerd wordt]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ReturnEmailCustomer">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bestelling Retour E-Mail Klant]]></Value>
+				<DictionaryItem Key="ReturnEmailCustomerDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kies de email-node welke gebruikt wordt om te versturen naar de klant als de bestelling geretourneerd wordt]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+
+			<DictionaryItem Key="UseBackorders">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Gebruik backorders]]></Value>
+				<DictionaryItem Key="UseBackordersDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Gebruik backorders om het omgelijk te maken producten toch te bestellen als er geen stock meer is. Deze instelling kan per product/variant overschreven worden]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="EnableTestmode">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Testmode]]></Value>
+				<DictionaryItem Key="EnableTestmodeDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Zet deze store in testmode. Hiermee worden orders, payment- en shipping-providers als 'test'aangemerkt. Dit kan per payment/shipping provider overschreven worden]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Currencies">
+				<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Valuta]]></Value>
+				<DictionaryItem Key="CurrenciesDescription">
+					<Value LanguageId="2" LanguageCultureAlias="en-GB"><![CDATA[Bepaal de valuta welke in deze store gebruikt kunnen worden. De index (koers) wordt berekend over het standaard prijsbedrag per item]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			
+		</DictionaryItem>
+
+		<DictionaryItem Key="SettingFields">
+			<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Instellingen Velden]]></Value>
+			<DictionaryItem Key="IncludingVat">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Alle prijzen inclusief BTW?]]></Value>
+				<DictionaryItem Key="IncludingVatSettingDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Gebruik deze optie als alle prijzen inclusief BTW worden ingevoerd]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="LowercaseUrls">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Altijd kleine letters voor URLs]]></Value>
+				<DictionaryItem Key="LowercaseUrlsSettingDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bepaal of alle URLs in de winkel altijd alleen kleine letters krijgen]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="IncompleteOrderLifetime">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Levenstuurd incomplete order]]></Value>
+				<DictionaryItem Key="OrderLifetimeSettingDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bepaal de levensduur in minuten tot een onbevestigde bestelling vervalt (standaard 360 minuten)]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+		</DictionaryItem>
+		
+		<!-- SECTIONS -->
+		<DictionaryItem Key="uWebshopSectionDescription">
+			<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De start van de uWebshop structuur in de Umbraco content-boom]]></Value>
+		</DictionaryItem>
+		<DictionaryItem Key="Catalog">
+			<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Catalogus]]></Value>
+			<DictionaryItem Key="CatalogDescription">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De catalogus bevat alle categorieën, producten en varianten]]></Value>
+			</DictionaryItem>
+			<DictionaryItem Key="Category">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Categorie]]></Value>
+				<DictionaryItem Key="CategoryDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Een categorie in de winkel]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="CategoryRepository">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Categorieën Repository]]></Value>
+				<DictionaryItem Key="CategoryRepositoryDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Een categorieën repository bevat alle categorieën in de winkel. Hieronder kunnen ook producten en varianten worden aangemaakt]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Product">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Product]]></Value>
+				<DictionaryItem Key="ProductDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Een product in de winkel]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ProductRepository">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Product Repository]]></Value>
+				<DictionaryItem Key="ProductRepositoryDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[In de product repository kunnen producten en varianten aangemaakt worden]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ProductVariant">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Product Variant]]></Value>
+				<DictionaryItem Key="ProductVariantDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Een product variant voor een product in de winkel]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="DiscountRepository">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Korting Repository]]></Value>
+				<DictionaryItem Key="DiscountRepositoryDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De korting repository bevat de product- en bestelling-kortingen]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="DiscountOrderSection">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bestel-korting Sectie]]></Value>
+				<DictionaryItem Key="DiscountOrderSectionDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De bestel-korting sectie bevat kortingen over bestellingen. Kortingen over bestellingen worden toegepast zodra een klant iets in het mandje plaatst]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="DiscountProduct Section">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Product-korting Sectie]]></Value>
+				<DictionaryItem Key="DiscountOrderSectionDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De product-korting sectie bevat kortingen over producten. Productkortingen zijn kortingen die getoond worden op de productpagina]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="DiscountOrder">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bestelling Korting]]></Value>
+				<DictionaryItem Key="DiscountOrderDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Kortingen over bestellingen worden toegepast zodra een klant iets in het mandje plaatst]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="DiscountProduct">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Product Korting]]></Value>
+				<DictionaryItem Key="DiscountProductDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Productkortingen zijn kortingen die getoond worden op de productpagina]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="EmailRepository">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Email Repository]]></Value>
+				<DictionaryItem Key="EmailRepositoryDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De email repository bevat de emails die naar de klant en naar de winkel worden gestuurd]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="EmailTemplateCustomerSection">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Layout Klantenemails Sectie]]></Value>
+				<DictionaryItem Key="EmailTemplateCustomerSectionDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De klantenemail layout sectie bevat de emails die naar de klant worden verstuurd]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="EmailTemplateStoreSection">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Layout Winkelemails Sectie]]></Value>
+				<DictionaryItem Key="EmailTemplateStoreSectionDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De winkelemail layout sectie bevat de emails die naar de winkel worden verstuurd]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="CustomerEmail">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Klant Email]]></Value>
+				<DictionaryItem Key="CustomerEmailDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De e-mail node om klantenemails mee aan te maken. Emails kunnen worden gekoppeld aan een event op de winkel-node]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="StoreEmail">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Winkel Email]]></Value>
+				<DictionaryItem Key="StoreEmailDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De e-mail node om winkelemails mee aan te maken. Emails kunnen worden gekoppeld aan een event op de winkel-node]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OrderRepository">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bestellingen Repository]]></Value>
+				<DictionaryItem Key="OrderRepositoryDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De bestellingen repository bevat alle orders en de order-status mappen]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="DateFolder">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Datum]]></Value>
+				<DictionaryItem Key="DateFolderDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Als een order geopend wordt, wordt deze automatisch getoond in een datum structuur]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Order">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bestelling]]></Value>
+				<DictionaryItem Key="OrderDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Een geplaatste bestelling in de winkel]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OrderSection">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bestellingen Sectie]]></Value>
+				<DictionaryItem Key="OrderSectionDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bekijk gemakkelijk bestellingen van een bepaalde status door hier een bestelsectie voor aan te maken]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OrderStoreFolder">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bestelling Winkel Sectie]]></Value>
+				<DictionaryItem Key="OrderSectionDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bestellingen van de desbetreffende winkel zijn hieronder te bekijken]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OrderedProduct">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Besteld Product]]></Value>
+				<DictionaryItem Key="OrderedProductDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Een besteld product bevat alle informatie die is opgeslagen over het bestelde product van de orderregel]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="OrderedProductVariant">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Bestelde Product Variant]]></Value>
+				<DictionaryItem Key="OrderedProductVariantDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Een bestelde product variant bevat alle informatie die is opgeslagen over de bestelde product variant van de orderregel]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="PaymentProviderRepository">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Betaalprovider Repository]]></Value>
+				<DictionaryItem Key="PaymentProviderRepositoryDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De betaalprovider repository bevat alle betaalproviders als ook de betaal zones (landen)]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="PaymentProviderSection">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Betaalprovider Sectie]]></Value>
+				<DictionaryItem Key="PaymentProviderRepositoryDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De betaalprovider sectie bevat alle betaalproviders en de bijbehorende betaalmethoden]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="PaymentProviderZoneSection">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Betaalprovider Zones Sectie]]></Value>
+				<DictionaryItem Key="PaymentProviderZoneSectionDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De betaalprovider zones sectie bevat alle zones (landen) om klanten aan betaalproviders te koppelen]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="PaymentProvider">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Betaalprovider]]></Value>
+				<DictionaryItem Key="PaymentProviderDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Een betalprovider maakt het mogelijk om klanten te laten betalen in de winkel]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="PaymentProviderMethod">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Betaalmethode]]></Value>
+				<DictionaryItem Key="PaymentProviderMethodDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Een methode kan gebruikt worden om een prijs toe te kennen aan een betaalprovider. Er kunnen meerdere methoden gekoppeld worden aan een betaalprovider]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="PaymentProviderZone">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Betaalprovider Zone]]></Value>
+				<DictionaryItem Key="PaymentProviderZoneDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Een betaalprovider zone definieerd welke klanten uit welke landen er gebruik kunnen maken van een betaalprovider]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ShippingProviderRepository">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Verzendprovider Repository]]></Value>
+				<DictionaryItem Key="ShippingProviderRepositoryDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De verzendprovider repository bevat alle verzendproviders als ook de verzend zones (landen)]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ShippingProviderSection">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Verzendprovider Sectie]]></Value>
+				<DictionaryItem Key="ShippingProviderRepositoryDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De verzendprovider sectie bevat alle verzendproviders en de verzendmethoden]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ShippingProviderZoneSection">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Verzendprovider Zone Sectie]]></Value>
+				<DictionaryItem Key="ShippingProviderZoneSectionDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De verzendprovider zone sectie bevat alle verzendprovider zones (landen)]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ShippingProvider">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Verzendprovider]]></Value>
+				<DictionaryItem Key="ShippingProviderDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Een verzendprovider maakt het mogelijk voor klanten om een verzendmethode te kiezen. Een verzendprovider kan meerdere verzendmethoden hebben]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ShippingProviderMethod">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Verzendmethode]]></Value>
+				<DictionaryItem Key="ShippingProviderMethodDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Een verendmethode bepaald de prijs van een verzendprovider. Een verzendprovider kan meerdere verzendmethoden hebben]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="ShippingProviderZone">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Verzendprovider Zone]]></Value>
+				<DictionaryItem Key="ShippingProviderZoneDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Een verzendprovider zone definieerd welke klanten uit welke landen er gebruik kunnen maken van een verzendprovider]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="StoreRepository">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Winkel Repository]]></Value>
+				<DictionaryItem Key="StoreRepositoryDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[De winkel repository bevat alle winkels]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Store">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Winkel]]></Value>
+				<DictionaryItem Key="StoreDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Een winkel defineerd de valuta, het land, emails en meer instellingen voor de verkoop]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+			<DictionaryItem Key="Settings">
+				<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Instellingen]]></Value>
+				<DictionaryItem Key="SettingsSectionDescription">
+					<Value LanguageId="2" LanguageCultureAlias="nl-NL"><![CDATA[Globale instellingen die niet winkel-specifiek zijn]]></Value>
+				</DictionaryItem>
+			</DictionaryItem>
+		</DictionaryItem>
+		
+	</DictionaryItem>
+
+</DictionaryItems>
